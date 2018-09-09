@@ -1,0 +1,182 @@
+.register-view-new{
+    margin-bottom:100px !important;
+}
+
+
+.Imgcode {
+    float:right;
+}
+.Imgcode img{
+    width:100px;
+    height:40px;
+}
+.register-view {
+    width: 1280px;
+    height: 342px;
+    margin: 40px auto;
+}
+
+.lft-imgview {
+	width: 700px;
+	height: 342px;
+	margin: 0 20px;
+	float: left;
+}
+
+.lft-imgview img {
+	width: 700px;
+	height: 342px;
+}
+
+.register-info,
+.login-view,.changepwd-info {
+	width: 428px;
+	height: 342px;
+	margin: 0 20px;
+	float: right;
+}
+
+.register-label,
+.login-label,.changepwd-lable {
+	width: 100%;
+	height: 36px;
+	font-size: 24px;
+	color: #6ca96e;
+	border-bottom: 4px solid #e4f4dc;
+	line-height: 36px;
+}
+
+.register-form,
+.login-form,.changepwd-form {
+	width: 100%;
+	height: 302px;
+}
+
+.form-item,
+.form-item1 {
+	width: 100%;
+	height: 40px;
+	margin-top: 26px;
+	line-height: 40px;
+}
+
+.form-item2 {
+	width: 100%;
+	height: 36px;
+	margin-top: 16px;
+	line-height: 36px;
+}
+
+.form-item label {
+	color: #666;
+	font-size: 16px;
+}
+
+.form-item input {
+	width: 296px;
+	height: 36px;
+	border: 2px solid #e4f4dc;
+	float: right;
+	background: #fff;
+	padding-left: 10px;
+	color: #999;
+	font-size: 14px;
+}
+
+.form-item1 label {
+	color: #666;
+	font-size: 16px;
+}
+
+.form-item1 input {
+	width: 196px;
+	height: 36px;
+	border: 2px solid #e4f4dc;
+	float: right;
+	background: #fff;
+	padding-left: 10px;
+	color: #999;
+	font-size: 14px;
+}
+
+.form-item1 .getCode{
+	width: 100px;
+	height: 40px;
+	float: right;
+	background: #e4f4dc;
+	color: #6ca96e;
+	font-size: 14px;
+	text-align: center;
+}
+
+
+
+.register-btn{
+	width: 100%;
+	height: 40px;
+	margin-top: 0;
+	background: #6ca96e;
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+	border-radius: 2px;
+	line-height: 40px;
+}
+
+
+.login-btn,.commit-btn {
+	width: 100%;
+	height: 40px;
+	background: #6ca96e;
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+	border-radius: 2px;
+	line-height: 40px;
+}
+
+.goLogin,
+.goResetPwd {
+	width: 200px;
+	float: right;
+	font-size: 14px;
+	color: #6ca96e;
+	text-align: right;
+	margin-top: 10px;
+}
+
+.goLogin a {
+    color: #6ca96e;
+}
+
+.error-remind{
+	line-height: 26px;
+	color: #f96d16;
+	font-size: 14px;
+	margin-left: 128px;
+	display: none;
+}
+
+.register-error, .commit-error{
+	height: 26px;
+	line-height: 26px;
+	color: #f96d16;
+	font-size: 14px;
+	padding-left: 128px;
+}
+.check-saveA {
+	height: 36px;
+	line-height: 36px;
+	color: #666;
+	font-size: 16px;
+	margin-left: 114px;
+}
+
+.check-saveA img {
+	float: left;
+}
+
+ .no_current{
+	background: #999!important;
+	color: #fff!important;
+}
